@@ -1,7 +1,7 @@
 # Shell-Script
 ## Scripts made during Udemy Course: Programação Shell Script - Automatizando Rotinas no Linux, below you can find the description (in portuguese) of each exercise commited.
 
-MeuPrimeiroScript.sh: Meu Primeiro Script 
+- <a href="https://github.com/yasmindevegili/Shell-Script/blob/main/MeuPrimeiroScript.sh">exercicio_1.php</a>: Meu Primeiro Script 
 
 SomaScript.sh: Crie um Script que após executado solicite dois valores como entrada. Esses valores devem ser somados e o resultado exibido para o usuário. 
 
